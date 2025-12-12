@@ -1,0 +1,5 @@
+{
+  "name": "Veo Studio - Continuous Video Generation",
+  "description": "Generate and extend high-quality videos using Google's Veo 3 model. Create a sequence, then extend it seamlessly maintaining character and style consistency.",
+  "requestFramePermissions": []
+}
